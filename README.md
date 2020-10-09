@@ -13,6 +13,7 @@ The purpose of this project is to have DST servers up and running with the **bar
 ## README in other languages
 
 * [README in Chinese](README.zh_CN.md)
+* [个人修改](README.zhoyq.md)
 
 ## Installation
 
